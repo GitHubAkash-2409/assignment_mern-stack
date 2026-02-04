@@ -1,0 +1,8 @@
+nohup: ignoring input
+
+> server@1.0.0 start /home/si-fi/Desktop/assignment/server
+> node src/server.js
+
+[dotenv@17.2.3] injecting env (1) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+Connected to MongoDB
+Server listening on port 5000
